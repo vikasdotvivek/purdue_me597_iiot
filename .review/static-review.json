@@ -1,0 +1,3629 @@
+{
+  "generator": "repository-static-triage",
+  "version": "1.0",
+  "repository": "vikasdotvivek/purdue_me597_iiot",
+  "revision": "3db9498a0459938d16b8376c2764998f7eece0ff",
+  "tracked_files": 880,
+  "scanned": [
+    {
+      "path": "lab/lab1/DS18B20_sample.py",
+      "lines": 37,
+      "bytes": 895
+    },
+    {
+      "path": "lab/lab10/lab10_sample_code/lab10_sample1.py",
+      "lines": 69,
+      "bytes": 3924
+    },
+    {
+      "path": "lab/lab10/lab10_sample_code/lab10_sample2.py",
+      "lines": 97,
+      "bytes": 4701
+    },
+    {
+      "path": "lab/lab10/lab10_sample_code/lab10_sample_adapter.py",
+      "lines": 159,
+      "bytes": 7018
+    },
+    {
+      "path": "lab/lab2/lab2_sample1.py",
+      "lines": 25,
+      "bytes": 709
+    },
+    {
+      "path": "lab/lab2/lab2_sample2.py",
+      "lines": 56,
+      "bytes": 1823
+    },
+    {
+      "path": "lab/lab2/lab2_sample3.py",
+      "lines": 31,
+      "bytes": 1028
+    },
+    {
+      "path": "lab/lab2/lab2_sample4.py",
+      "lines": 68,
+      "bytes": 2183
+    },
+    {
+      "path": "lab/lab2/lab2_sample5.py",
+      "lines": 84,
+      "bytes": 2359
+    },
+    {
+      "path": "lab/lab3/lab3_sample1.py",
+      "lines": 35,
+      "bytes": 1159
+    },
+    {
+      "path": "lab/lab3/lab3_sample2.py",
+      "lines": 59,
+      "bytes": 1962
+    },
+    {
+      "path": "lab/lab5/adapter_sample/adapter_sample.py",
+      "lines": 68,
+      "bytes": 2804
+    },
+    {
+      "path": "lab/lab5/adapter_sample/data_item.py",
+      "lines": 180,
+      "bytes": 5083
+    },
+    {
+      "path": "lab/lab5/adapter_sample/mtconnect_adapter.py",
+      "lines": 202,
+      "bytes": 6830
+    },
+    {
+      "path": "lab/lab5/lab5_adapter/data_item.py",
+      "lines": 180,
+      "bytes": 5083
+    },
+    {
+      "path": "lab/lab5/lab5_adapter/lab5_adapter1.py",
+      "lines": 145,
+      "bytes": 5709
+    },
+    {
+      "path": "lab/lab5/lab5_adapter/lab5_adapter2-1.py",
+      "lines": 92,
+      "bytes": 3483
+    },
+    {
+      "path": "lab/lab5/lab5_adapter/lab5_adapter2-2.py",
+      "lines": 82,
+      "bytes": 3172
+    },
+    {
+      "path": "lab/lab5/lab5_adapter/lab5_adapter2-3.py",
+      "lines": 85,
+      "bytes": 3243
+    },
+    {
+      "path": "lab/lab5/lab5_adapter/mtconnect_adapter.py",
+      "lines": 202,
+      "bytes": 6830
+    },
+    {
+      "path": "lab/lab5/lab5_adapter_backup/20250107/lab5_adapter/data_item.py",
+      "lines": 180,
+      "bytes": 4904
+    },
+    {
+      "path": "lab/lab5/lab5_adapter_backup/20250107/lab5_adapter/lab5_adapter1.py",
+      "lines": 145,
+      "bytes": 5558
+    },
+    {
+      "path": "lab/lab5/lab5_adapter_backup/20250107/lab5_adapter/lab5_adapter2-1.py",
+      "lines": 92,
+      "bytes": 3391
+    },
+    {
+      "path": "lab/lab5/lab5_adapter_backup/20250107/lab5_adapter/lab5_adapter2-2.py",
+      "lines": 82,
+      "bytes": 3090
+    },
+    {
+      "path": "lab/lab5/lab5_adapter_backup/20250107/lab5_adapter/lab5_adapter2-3.py",
+      "lines": 85,
+      "bytes": 3158
+    },
+    {
+      "path": "lab/lab5/lab5_adapter_backup/20250107/lab5_adapter/mtconnect_adapter.py",
+      "lines": 202,
+      "bytes": 6628
+    },
+    {
+      "path": "lab/lab5/lab5_sample/lab5_ADXL345_sample.py",
+      "lines": 17,
+      "bytes": 590
+    },
+    {
+      "path": "lab/lab5/lab5_sample/lab5_DHT11_sample.py",
+      "lines": 31,
+      "bytes": 1032
+    },
+    {
+      "path": "lab/lab5/lab5_sample/lab5_DS18B20_sample.py",
+      "lines": 32,
+      "bytes": 705
+    },
+    {
+      "path": "lab/lab5/lab5_sample/lab5_powermeter_sample.py",
+      "lines": 47,
+      "bytes": 1528
+    },
+    {
+      "path": "lab/lab5/xml_parsing_example/xml_parsing_example.py",
+      "lines": 7,
+      "bytes": 415
+    },
+    {
+      "path": "lab/lab6/lab6_sample.py",
+      "lines": 51,
+      "bytes": 2284
+    },
+    {
+      "path": "lab/lab7/mtconnect_collector.py",
+      "lines": 97,
+      "bytes": 5100
+    },
+    {
+      "path": "lab/lab8/Lab8_data_collector.py",
+      "lines": 54,
+      "bytes": 2495
+    },
+    {
+      "path": "lab/lab8/Lab8_plot_example.py",
+      "lines": 72,
+      "bytes": 2266
+    },
+    {
+      "path": "lab/lab9/lab9_code/data_item.py",
+      "lines": 180,
+      "bytes": 5083
+    },
+    {
+      "path": "lab/lab9/lab9_code/lab9_ML_implementation.py",
+      "lines": 83,
+      "bytes": 3628
+    },
+    {
+      "path": "lab/lab9/lab9_code/lab9_adapter_sample.py",
+      "lines": 164,
+      "bytes": 6978
+    },
+    {
+      "path": "lab/lab9/lab9_code/lab9_sample1.py",
+      "lines": 53,
+      "bytes": 2165
+    },
+    {
+      "path": "lab/lab9/lab9_code/lab9_sample2.py",
+      "lines": 83,
+      "bytes": 3608
+    },
+    {
+      "path": "lab/lab9/lab9_code/mtconnect_adapter.py",
+      "lines": 202,
+      "bytes": 6830
+    }
+  ],
+  "skipped": [
+    {
+      "path": ".DS_Store",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": ".github/workflows/code-improvement-review.yml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ML_index.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "README.md",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "colab_pdf_convert.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "index.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/.DS_Store",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/ME_Logo_Transparent.webp",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/Prelab8_rubric.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/Purdue-University-Logo.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/icon_CommandLine.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/icon_Grafana.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/icon_MySQL.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/icon_Python.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/icon_RaspberryPi.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/icon_SQL.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/icon_Tip.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/icon_Troubleshooting.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/icon_Windows.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/icon_conf.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/icon_xml.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0_fig0-1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0_fig0-10.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0_fig0-11.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0_fig0-12.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0_fig0-13.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0_fig0-14.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0_fig0-2.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab0_fig0-3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0_fig0-4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0_fig0-5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0_fig0-6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0_fig0-7.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0_fig0-8.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0_fig0-9.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab0_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab10_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab10_fig10.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab10_fig11.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab10_fig12.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab10_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab10_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab10_fig4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab10_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab10_fig6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab10_fig7.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab10_fig8.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab10_fig9.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab10_img1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab1_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab1_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab1_fig3.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab1_fig4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab1_fig5.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab1_fig6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab2_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab2_fig10.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab2_fig11.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab2_fig12.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab2_fig13.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab2_fig14.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab2_fig2.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab2_fig3.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab2_fig4.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab2_fig5.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab2_fig6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab2_fig7.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab2_fig8.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab3_fig1.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab3_fig10.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab3_fig11.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab3_fig12.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab3_fig13.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab3_fig14.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab3_fig15.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab3_fig2.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab3_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab3_fig4.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab3_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab3_fig6.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/lab3_fig7.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab3_fig8.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab3_fig9.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig0-1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig0-10.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig0-11.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig0-12.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig0-13.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig0-14.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig0-15.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig0-16.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig0-2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig0-3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig0-4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig0-5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig0-6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig0-7.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig0-8.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig0-9.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig10.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig11.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig12.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig7.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig8.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab4_fig9.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab5_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab5_fig10.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab5_fig11.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab5_fig12.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab5_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab5_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab5_fig4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab5_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab5_fig6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab5_fig7.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab5_fig8.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab5_fig9.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab5_img1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab6_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab6_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab6_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab6_fig4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab6_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab6_fig6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab6_img1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab6_img2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab6_img3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab6_img4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab6_img5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab6_img6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab6_img7.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig10.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig11.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig12.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig13.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig14.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig15.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig16.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig17.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig18.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig19.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig20.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig7.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig8.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_fig9.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_img1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_img10.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_img11.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_img12.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_img2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_img3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_img4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_img5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_img6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_img7.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_img8.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab7_img9.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab8_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab8_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab8_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab8_fig4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab8_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab8_fig6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab8_img1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab8_img2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig10.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig11.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig12.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig13.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig7.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig8.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig9.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig_a1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig_a10.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig_a11.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig_a12.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig_a2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig_a3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig_a4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig_a5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig_a6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig_a7.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig_a8.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_fig_a9.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_img1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_img2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/lab9_img3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab0_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab0_fig10.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab0_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab0_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab0_fig4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab0_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab0_fig6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab0_fig7.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab0_fig8-1.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/prelab0_fig8.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab0_fig9.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/prelab0_pic1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab0_pic2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab0_pic3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_fig10.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_fig11.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_fig12.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_fig13.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_fig4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_fig6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_fig7.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_fig8.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_fig9.gif",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_img0.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_img1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_img2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab10_img3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab1_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab1_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab2_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab2_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab2_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab2_fig4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab2_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab2_fig6.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/prelab2_fig7.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab2_table1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab3_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab4_fig0-1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab4_fig0-2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab4_fig1.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/prelab4_fig2.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/prelab4_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab4_fig4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab4_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab5_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab5_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab5_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab5_fig4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab5_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab5_img1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab5_img2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab5_img3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab6_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab6_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab6_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab7_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab7_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab7_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab8_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab8_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab8_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab8_fig4.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img/prelab8_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab8_img1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab8_img2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab8_img3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab8_img4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab9_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab9_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab9_img1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab9_img2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img/prelab9_img3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_F24_update/figure.pptx",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_F24_update/lab0_fig0-13.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_F24_update/pip3 list.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_F24_update/prelab3_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_F24_update/prelab3_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_F24_update/prelab3_fig4.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_F24_update/prelab3_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/figure edit.svg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab0_basic_setting.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab0_choose_device.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab0_confirm_installation.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab0_continue_installation.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab0_install_page.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab0_os_download.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab0_select_os.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab0_select_os_0.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S24_update/lab0_select_os_1.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S24_update/lab0_select_storage.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab0_setup_SSH.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab0_setup_pw_and_SSH.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab0_setup_username_and_pw.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab2_network_setup.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab4_agent_cfg_update.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S24_update/lab4_fig0-11.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab4_ruby_download.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S24_update/lab5_xml_parsing_example.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab6_apply_SQL_script.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S24_update/lab6_create_data_info.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S24_update/lab6_create_table.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S24_update/lab6_created_table.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab6_created_table2.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S24_update/lab6_fig2.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S24_update/lab6_fig3.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S24_update/lab6_fig4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab6_fig5.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S24_update/lab7_fig20.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab7_fig6.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S24_update/lab7_img10.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/lab7_img6.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S24_update/lab9_fig12.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S24_update/prelab10_fig12.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S24_update/prelab9_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab0_fig10.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab1_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab1_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab1_fig4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab1_fig5.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S25_update/lab1_fig6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab1_fig7.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab4_fig7.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab5_fig1.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S25_update/lab5_fig10.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S25_update/lab5_fig11.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab5_fig2.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S25_update/lab5_fig3.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S25_update/lab6_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab6_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab6_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab6_fig4.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab7_fig15.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab7_fig16.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab7_fig18.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab7_fig19.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S25_update/lab7_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab7_fig4.png",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/img_S25_update/lab7_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab7_fig6.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/lab7_img8.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/prelab1_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/prelab5_fig1.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/prelab5_fig2.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/prelab5_fig5.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/img_S25_update/prelab7_fig3.png",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/intro/Basics_of_Python.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/intro/Introduction_to_Colab_Notebooks.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab0/L0-Supplementary.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab0/L0_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab0/PL0_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab0/PL0_Colab2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab0/PL0_Colab3.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab1/DS18B20-Manual.pdf",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab1/L1_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab1/L1_Colab2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab1/PL1_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab1/PL1_Colab2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab10/.DS_Store",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab10/L10_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab10/L10_Colab2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab10/L10_Colab3.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab10/PL10_Colab1.ipynb",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab10/PL10_Colab2.ipynb",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab10/PL10_Colab3.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab10/Prelab10_Video1_Air-tight_compressed.mp4",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab10/Prelab10_Video2_Air-leakage_compressed.mp4",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab10/prelab_data/OFF.wav",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab10/prelab_data/OFF_with_noise.wav",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab10/prelab_data/ON_air_leaking.wav",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab10/prelab_data/ON_air_leaking_with_noise.wav",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab10/prelab_data/ON_vacuum.wav",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab10/prelab_data/ON_vacuum_with_noise.wav",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab2/ADXL345_data_sheet.pdf",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab2/L2_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab2/L2_Colab2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab2/L2_Colab3.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab2/PL2_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab2/PL2_Colab2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab3/Acuvim L User's Manual.pdf",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab3/IFM_JSON_Integration_for_IO-Link.pdf",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab3/IFM_VVB001_IO-Link_Interface_Description.pdf",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab3/L3_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab3/L3_Colab2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab3/L3_Colab3.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab3/L3_Colab4.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab3/L3_Supplementary1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab3/L3_Supplementary2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab3/L3_Supplementary3.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab3/PL3_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab3/PL3_Colab2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab4/.DS_Store",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab4/L4_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab4/L4_Colab2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab4/L4_Colab3.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab4/MTConnect_Standard_Ver.1.6/MTC_Part_1-0-Overview_and_Fundamentals_1-6-0.pdf",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab4/MTConnect_Standard_Ver.1.6/MTC_Part_2-0_Devices_Information_Model_1-6-0.pdf",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab4/MTConnect_Standard_Ver.1.6/MTC_Part_3-0_Streams_Information_Model_1-6-0.pdf",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab4/MTConnect_Standard_Ver.1.6/MTC_Part_4-0_Assets_Information_Model_1-6-0.pdf",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab4/MTConnect_Standard_Ver.1.6/MTC_Part_4-1_Cutting_Tools_1-6-0.pdf",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab4/MTConnect_Standard_Ver.1.6/MTC_Part_5-0_Interfaces_1-6-0.pdf",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab4/MTConnect_Standard_Ver.1.6/V1_6_ReleaseNotes.xlsx",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab4/MTConnect_agent/agent_RaspberryPi.zip",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab4/MTConnect_agent/agent_Ubuntu.zip",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab4/MTConnect_agent/agent_Windows.zip",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab4/MTConnect_agent/agent_macOS_ARM_architecture.zip",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab4/MTConnect_simulator.zip",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab4/MTConnect_simulator/Sensor_log.txt",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab4/MTConnect_simulator/run_scenario.rb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab4/PL4_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab4/agent_Windows.zip",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab5/.DS_Store",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab5/L5_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab5/L5_Colab2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab5/L5_Colab3.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab5/PL5_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab5/adapter_sample.zip",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab5/agent.cfg",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab5/lab5_adapter.zip",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab5/lab5_adapter_backup/20231201/adapter_sample.zip",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab5/lab5_adapter_backup/20231201/lab5_adapter.zip",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab5/lab5_adapter_backup/20250107/adapter_sample.zip",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab5/lab5_sample.zip",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab5/xml_parsing_example/xml_parsing_example.xml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab6/L6_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab6/L6_Colab2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab6/PL6_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab7/L7_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab7/L7_Colab2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab7/PL7_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab8/L8_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab8/L8_Colab2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab8/PL8_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab8/PL8_Colab2.ipynb",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab8/PL8_Colab3.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab8/PL8_Rubric.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab8/Prelab8_Video1_Air-tight.mp4",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab8/Prelab8_Video2_Air-leakage.mp4",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab8/Prelab8_data.csv",
+      "reason": "over 1000000 bytes"
+    },
+    {
+      "path": "lab/lab9/L9_Appendix.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab9/L9_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab9/L9_Colab2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab9/L9_Colab3.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab9/L9_Colab4.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "lab/lab9/PL9_Colab1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/.DS_Store",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_1",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_10",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_100",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_101",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_102",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_103",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_104",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_105",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_106",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_107",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_108",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_109",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_11",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_110",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_111",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_112",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_113",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_114",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_115",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_116",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_117",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_118",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_119",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_12",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_120",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_121",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_122",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_123",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_124",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_125",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_126",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_127",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_128",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_129",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_13",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_130",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_131",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_132",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_133",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_134",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_135",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_136",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_137",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_138",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_139",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_14",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_140",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_141",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_142",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_143",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_144",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_145",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_146",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_147",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_148",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_149",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_15",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_150",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_151",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_152",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_153",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_154",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_155",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_156",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_157",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_158",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_159",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_16",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_160",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_161",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_162",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_163",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_164",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_165",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_166",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_167",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_168",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_169",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_17",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_170",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_171",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_172",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_173",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_174",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_175",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_176",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_177",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_178",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_179",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_18",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_180",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_19",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_2",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_20",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_21",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_22",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_23",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_24",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_25",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_26",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_27",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_28",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_29",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_3",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_30",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_31",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_32",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_33",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_34",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_35",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_36",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_37",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_38",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_39",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_4",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_40",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_41",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_42",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_43",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_44",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_45",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_46",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_47",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_48",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_49",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_5",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_50",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_51",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_52",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_53",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_54",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_55",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_56",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_57",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_58",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_59",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_6",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_60",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_61",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_62",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_63",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_64",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_65",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_66",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_67",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_68",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_69",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_7",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_70",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_71",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_72",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_73",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_74",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_75",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_76",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_77",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_78",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_79",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_8",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_80",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_81",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_82",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_83",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_84",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_85",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_86",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_87",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_88",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_89",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_9",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_90",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_91",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_92",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_93",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_94",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_95",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_96",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_97",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_98",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Abnormal_99",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_1",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_10",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_100",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_101",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_102",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_103",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_104",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_105",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_106",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_107",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_108",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_109",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_11",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_110",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_111",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_112",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_113",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_114",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_115",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_116",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_117",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_118",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_119",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_12",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_120",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_121",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_122",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_123",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_124",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_125",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_126",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_127",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_128",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_129",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_13",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_130",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_131",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_132",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_133",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_134",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_135",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_136",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_137",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_138",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_139",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_14",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_140",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_141",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_142",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_143",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_144",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_145",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_146",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_147",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_148",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_149",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_15",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_150",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_151",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_152",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_153",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_154",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_155",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_156",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_157",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_158",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_159",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_16",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_160",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_161",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_162",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_163",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_164",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_165",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_166",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_167",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_168",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_169",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_17",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_170",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_171",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_172",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_173",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_174",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_175",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_176",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_177",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_178",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_179",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_18",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_180",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_19",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_2",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_20",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_21",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_22",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_23",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_24",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_25",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_26",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_27",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_28",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_29",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_3",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_30",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_31",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_32",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_33",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_34",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_35",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_36",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_37",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_38",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_39",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_4",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_40",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_41",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_42",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_43",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_44",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_45",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_46",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_47",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_48",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_49",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_5",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_50",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_51",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_52",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_53",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_54",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_55",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_56",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_57",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_58",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_59",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_6",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_60",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_61",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_62",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_63",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_64",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_65",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_66",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_67",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_68",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_69",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_7",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_70",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_71",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_72",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_73",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_74",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_75",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_76",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_77",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_78",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_79",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_8",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_80",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_81",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_82",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_83",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_84",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_85",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_86",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_87",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_88",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_89",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_9",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_90",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_91",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_92",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_93",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_94",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_95",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_96",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_97",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_98",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/Dataset/Normal_99",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/HW/HW1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/HW/HW2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/HW/HW3.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML1/ExampleData",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML1/ML1_Code1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML1/ML1_Code2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML1/ML1_Code3.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML2/ML2_Code1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML2/ML2_Code2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML2/ML2_Code3.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML3/ML3_Code1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML3/ML3_Code1_Answer.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML3/ML3_Code2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML4/ML4_Code1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML4/ML4_Code1_Answer.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML4/ML4_Code2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML5/ML5_Code1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML6/ML6_Code1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML7/ML7_Code1.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML7/ML7_Code2.ipynb",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "ml_tutorial/ML7/ML7_Code2_Answer.ipynb",
+      "reason": "non-source format; content not audited"
+    }
+  ],
+  "manifests": [],
+  "conventional_test_paths": [],
+  "findings": [
+    {
+      "rule": "python3-parse",
+      "priority": "P1",
+      "path": "lab/lab10/lab10_sample_code/lab10_sample1.py",
+      "line": 13,
+      "title": "Does not parse with the audit runner Python 3",
+      "recommendation": "Confirm the intended Python version. This may be legacy Python 2 rather than an unintended syntax error; compile with the supported interpreter.",
+      "status": "review-required",
+      "source": "https://github.com/vikasdotvivek/purdue_me597_iiot/blob/3db9498a0459938d16b8376c2764998f7eece0ff/lab/lab10/lab10_sample_code/lab10_sample1.py#L13"
+    },
+    {
+      "rule": "python3-parse",
+      "priority": "P1",
+      "path": "lab/lab10/lab10_sample_code/lab10_sample_adapter.py",
+      "line": 18,
+      "title": "Does not parse with the audit runner Python 3",
+      "recommendation": "Confirm the intended Python version. This may be legacy Python 2 rather than an unintended syntax error; compile with the supported interpreter.",
+      "status": "review-required",
+      "source": "https://github.com/vikasdotvivek/purdue_me597_iiot/blob/3db9498a0459938d16b8376c2764998f7eece0ff/lab/lab10/lab10_sample_code/lab10_sample_adapter.py#L18"
+    },
+    {
+      "rule": "python3-parse",
+      "priority": "P1",
+      "path": "lab/lab9/lab9_code/lab9_ML_implementation.py",
+      "line": 69,
+      "title": "Does not parse with the audit runner Python 3",
+      "recommendation": "Confirm the intended Python version. This may be legacy Python 2 rather than an unintended syntax error; compile with the supported interpreter.",
+      "status": "review-required",
+      "source": "https://github.com/vikasdotvivek/purdue_me597_iiot/blob/3db9498a0459938d16b8376c2764998f7eece0ff/lab/lab9/lab9_code/lab9_ML_implementation.py#L69"
+    },
+    {
+      "rule": "python3-parse",
+      "priority": "P1",
+      "path": "lab/lab9/lab9_code/lab9_adapter_sample.py",
+      "line": 111,
+      "title": "Does not parse with the audit runner Python 3",
+      "recommendation": "Confirm the intended Python version. This may be legacy Python 2 rather than an unintended syntax error; compile with the supported interpreter.",
+      "status": "review-required",
+      "source": "https://github.com/vikasdotvivek/purdue_me597_iiot/blob/3db9498a0459938d16b8376c2764998f7eece0ff/lab/lab9/lab9_code/lab9_adapter_sample.py#L111"
+    },
+    {
+      "rule": "python3-parse",
+      "priority": "P1",
+      "path": "lab/lab9/lab9_code/lab9_sample2.py",
+      "line": 58,
+      "title": "Does not parse with the audit runner Python 3",
+      "recommendation": "Confirm the intended Python version. This may be legacy Python 2 rather than an unintended syntax error; compile with the supported interpreter.",
+      "status": "review-required",
+      "source": "https://github.com/vikasdotvivek/purdue_me597_iiot/blob/3db9498a0459938d16b8376c2764998f7eece0ff/lab/lab9/lab9_code/lab9_sample2.py#L58"
+    }
+  ],
+  "total_findings": 5,
+  "findings_omitted": 0,
+  "execution": "No repository code, tests, builds or hardware were executed."
+}
